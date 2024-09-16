@@ -1,16 +1,17 @@
-# Legal Documents
+# README
 
-Welcome to the webpage for the legal documents for Ethcon Korea. Here, you will find important legal documents related to Ethcon Korea. These documents are designed to help you understand our practices and policies. If you want to check more detail histories, please visit the github [repository](httsp://github.com/ethcon-kr/legal.ethcon.kr).
+1. Open this repository in a devcontainer. You can simply use Github codespace for this.
 
-## Legal Documents
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ethcon-kr/legal.ethcon.kr)
 
-- [Privacy Policy](./my-ethcon/privacy): Learn how we handle your data and protect your privacy.
-- [Terms of Service](./my-ethcon/terms): Understand the terms and conditions governing your use of My Ethcon.
+2. Install packages
 
-## Future Documents
+```
+bundle install
+```
 
-Additional legal documents will be added to this repository in the future as needed. Please check back for updates.
+3. Run your devserver
 
----
-
-If you have any questions or concerns about these documents, feel free to contact us at [ask@ethcon.kr](mailto:ask@ethcon.kr).
+```
+bundle exec jekyll serve
+```
