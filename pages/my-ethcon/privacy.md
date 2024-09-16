@@ -4,7 +4,7 @@ layout: page
 title: Privacy Policy
 ---
 
-#### _Last Updated: Sep 16th, 2024
+_**Last Updated: Sep 16th, 2024**_
 
 Welcome to MyEthcon (the "Service"). This Privacy Policy describes how we collect, use, and share your personal information when you access and use our web service. By using the Service, you agree to the collection and use of information in accordance with this policy.
 
