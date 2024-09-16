@@ -1,4 +1,8 @@
-# Privacy Policy
+---
+permalink: /my-ethcon/privacy/
+layout: page
+title: Privacy Policy
+---
 
 Our privacy policy is currently being drafted and will be available soon. Please note that we are committed to protecting your data and ensuring your privacy. Until the full policy is published, we adhere to the following principles:
 

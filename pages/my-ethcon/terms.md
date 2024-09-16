@@ -1,10 +1,12 @@
-# Terms of Service
+---
+permalink: /my-ethcon/terms/
+layoute: page
+title: Terms of Service
+---
 
-## Last Updated: Sep 16h, 2024
+#### Last Updated: Sep 16h, 2024
 
 Welcome to My Ethcon! By using our app, you agree to the following terms and conditions. Please read them carefully.
-
----
 
 ## 1. Acceptance of Terms
 
@@ -49,7 +51,5 @@ These Terms are governed by and construed in accordance with the laws of South K
 ## 10. Contact Us
 
 If you have any questions about these Terms, please contact us at [ask@ethcon.kr](mailto:ask@ethcon.kr).
-
----
 
 **Thank you for using My Ethcon!**
