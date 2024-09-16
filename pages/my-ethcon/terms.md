@@ -4,7 +4,7 @@ layoute: page
 title: Terms of Service
 ---
 
-#### Last Updated: Sep 16h, 2024
+_**Last Updated: Sep 16h, 2024**_
 
 Welcome to My Ethcon! By using our service, you agree to the following terms and conditions. Please read them carefully.
 
